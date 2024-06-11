@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**StefanSchullerAndrei/StefanSchullerAndrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Manual and Automation Testing
+- 👯 I’m looking to collaborate on related fields that I'm studing above
+- 📫 How to reach me: check my linkedIn profile
+- ⚡ Fun fact: Every day is a learning
